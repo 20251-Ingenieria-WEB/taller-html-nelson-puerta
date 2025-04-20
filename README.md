@@ -1,8 +1,8 @@
 # taller-html-nelson-puerta
 
-##Primer taller de la asignatura Ingeniería Web 2025 1
+## Primer taller de la asignatura Ingeniería Web 2025 1
 
-##Objetivo
+## Objetivo
 Este proyecto fue desarrollado para aplicar y afianzar los conocimientos adquieridos en las primeras unidades de la asignatura.
 
 ## Funcionalidades
